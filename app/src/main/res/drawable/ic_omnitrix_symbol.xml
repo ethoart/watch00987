@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Generic placeholder core-symbol icon. This is NOT official artwork.
+  Swap this file for your own image (e.g. from your benwatch assets) to get the exact look you want.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <path
+        android:fillColor="@color/omnitrix_dial_bg"
+        android:pathData="M100,4 A96,96 0 1,1 99.9,4 Z" />
+
+    <path
+        android:strokeColor="@color/omnitrix_green"
+        android:strokeWidth="6"
+        android:fillColor="#00000000"
+        android:pathData="M100,10 A90,90 0 1,1 99.9,10 Z" />
+
+    <!-- generic hourglass core -->
+    <path
+        android:fillColor="@color/omnitrix_green"
+        android:pathData="M60,55 L140,55 L108,100 L140,145 L60,145 L92,100 Z" />
+
+    <path
+        android:fillColor="@color/omnitrix_dial_bg"
+        android:pathData="M72,65 L128,65 L100,100 Z M72,135 L128,135 L100,100 Z" />
+</vector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Omnitrix core palette -->
+    <color name="omnitrix_green">#39FF14</color>
+    <color name="omnitrix_green_dark">#0F7A0A</color>
+    <color name="omnitrix_dial_bg">#1A1A1A</color>
+    <color name="omnitrix_rim">#2E2E2E</color>
+    <color name="omnitrix_glow">#66FFAA</color>
+
+    <!-- Mode colours -->
+    <color name="mode_dna_yellow">#FFD500</color>
+    <color name="mode_dna_yellow_glow">#FFF176</color>
+    <color name="mode_low_power_red">#FF1A1A</color>
+    <color name="mode_low_power_dark">#4D0000</color>
+    <color name="mode_normal_green">#39FF14</color>
+
+    <color name="screen_bg">#000000</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#AAFFFFFF</color>
+</resources>

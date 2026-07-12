@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerAliens"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="24dp"
+        android:paddingBottom="4dp"
+        android:clipToPadding="false" />
+
+    <!-- Title overlay at top -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:gravity="center"
+        android:background="#CC000000"
+        android:text="SELECT ALIEN"
+        android:textColor="#39FF14"
+        android:textSize="9sp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:letterSpacing="0.2" />
+
+</FrameLayout>

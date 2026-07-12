@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Omnitrix Watch</string>
+    <string name="tap_to_activate">TAP SYMBOL TO ACTIVATE</string>
+    <string name="select_alien">SELECT ALIEN</string>
+    <string name="mode_normal">NORMAL</string>
+    <string name="mode_dna_scan">DNA SCAN</string>
+    <string name="mode_low_power">LOW POWER</string>
+    <string name="scanning">SCANNING&#8230;</string>
+    <string name="transforming">TRANSFORMING&#8230;</string>
+    <string name="back">Back</string>
+</resources>
